@@ -8,7 +8,7 @@ long long calcularFatorial(int n)
         resultado *= i;
     }
 
-    return 0;
+    return resultado;
 }
 
 int main()
